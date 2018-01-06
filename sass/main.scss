@@ -1,4 +1,22 @@
 body {
   background-color: black;
 }
- @import "module/module"
+
+
+#photos img{
+  width: 100px;
+}
+
+
+#photos2 img{
+  float: right;
+  width: 100px;
+}
+
+
+#photos3 img{
+  float: right;
+  width: 100px;
+}
+
+ @import "module/module";
